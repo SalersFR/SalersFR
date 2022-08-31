@@ -1,7 +1,7 @@
 ### Hi there I am Salers, i live in LA FRANCE BORDEL👋
 
-<a href="https://frontend.code-inspector.com/public/user/github/SalersFR">
-   <img src="https://code-inspector.com/public/badge/user/github/SalersFR?style=light" alt="code inspector badge" />
+<a href="https://app.codiga.io/hub/user/github">
+   <img src="https://api.codiga.io/public/badge/user/github/salersfr?style=dark" alt="codiga badge" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=SalersFR)
