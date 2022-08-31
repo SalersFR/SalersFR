@@ -4,4 +4,6 @@
    <img src="https://code-inspector.com/public/badge/user/github/SalersFR?style=light" alt="code inspector badge" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=SalersFR)
+
 
